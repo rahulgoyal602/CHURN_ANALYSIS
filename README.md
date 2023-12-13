@@ -23,7 +23,7 @@ Jupyter Notebooks: Interactive notebooks for analysis and model development.
 
 
 
-Author
-[Rahul Goyal]
+# Author
+Rahul Goyal
 
-Feel free to contribute, report issues, or provide feedback!
+# Feel free to contribute, report issues, or provide feedback!
